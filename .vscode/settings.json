@@ -1,0 +1,17 @@
+{
+	"C_Cpp.default.configurationProvider": "go2sh.cmake-integration",
+	"editor.tabSize": 2,
+	"files.eol": "\n",
+	"cmake.buildDirectory": "${workspaceFolder}/out/build",
+	"files.exclude": {
+		"build": true,
+		".vs": true
+	},
+	"files.trimTrailingWhitespace": true,
+	"search.exclude": {
+		"build/**": true,
+		"libcef/**": true
+	},
+	"search.useIgnoreFiles": true,
+	"cmake.cpptools.compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.26.28801/bin/Hostx64/x64/cl.exe",
+}
